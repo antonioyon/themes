@@ -16,7 +16,7 @@ terminal.ansiBrightYellow = '#E9D16C';
 terminal.ansiBrightWhite	= '#A9B2C3';
 
 t.prefs_.set(
-	'color-palett-overrides', [
+	'color-palette-overrides', [
 		terminal.ansiBlack,
 		terminal.ansiRed,
 		terminal.ansiGreen,
